@@ -9,7 +9,7 @@
 2. Instalación y funcionamiento de **PHP**.
 3. Implementación del programa **PHP** aportado por el profesor.
 
-> **Nota:** Se asume que el estudiante no ha asistido o trabajado durante el período de clases y no se ha preocupado por aprenderlo.
+> **Nota:** Se asume que el estudiante  ha asistido o trabajado durante el período de clases y se ha preocupado por aprenderlo.
 
 ---
 
